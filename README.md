@@ -7,7 +7,7 @@ Components are basic building blocks of a react page.
 
 Screenshot
 
-![Screen Shot 2023-12-18 at 4 42 50 PM](https://github.com/RiniJ7/React-props/assets/125235432/7302c55d-ba38-44ba-82b4-00e7325f3d42)
+![Screen Shot 2023-12-18 at 4 42 50 PM](https://github.com/RiniJ7/React-props/assets/125235432/7302c55d-ba38-44ba-82b4-00e7325f3d42){ : width="150"}
 
 Links:
 
