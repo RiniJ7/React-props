@@ -1,4 +1,5 @@
 #React props - learn the fundementals using functional & class components
+- Props is a special keyword in React that stands for properties and is used for passing data from one component to another. Data with props are passed in a unidirectional flow from parent to child
 
 This is learning props through rendering a product display in an e-commerce page.
 
